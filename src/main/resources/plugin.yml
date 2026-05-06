@@ -1,0 +1,19 @@
+name: hMobCoins
+version: ${project.version}
+main: net.hboj.hmobcoins.MobCoinsPlugin
+api-version: '1.21'
+author: hboj
+description: Configurable physical mob coin drops for Paper and Purpur.
+softdepend:
+  - ItemsAdder
+  - Citizens
+  - MythicMobs
+commands:
+  mobcoins:
+    description: hMobCoins admin command.
+    usage: /mobcoins reload
+    permission: mobcoins.admin
+permissions:
+  mobcoins.admin:
+    description: Allows access to hMobCoins admin commands.
+    default: op

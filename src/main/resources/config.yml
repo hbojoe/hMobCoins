@@ -1,0 +1,947 @@
+settings:
+  enabled: true
+  debug: false
+
+  only-player-kills: true
+  allow-projectile-kills: true
+
+  prevent-spawner-mobs: true
+  prevent-mythicmobs: true
+  prevent-citizens: true
+  prevent-custom-named-mobs: true
+  custom-mob-metadata-keys:
+    - CustomMob
+    - custommob
+    - EliteMob
+    - elite_mob
+    - LevelledMobs
+    - levelledmobs
+
+  default-drop-chance: 25.0
+
+itemsadder:
+  enabled: true
+  warn-invalid-items: true
+
+global-drops:
+  enabled: true
+  chance: 10.0
+  rolls:
+    min: 1
+    max: 1
+  drops:
+    bronze_coin:
+      item: "asteroidmc:bronze_coin"
+      weight: 75
+      amount:
+        min: 1
+        max: 3
+    silver_coin:
+      item: "asteroidmc:silver_coin"
+      weight: 20
+      amount:
+        min: 1
+        max: 2
+    gold_coin:
+      item: "asteroidmc:gold_coin"
+      weight: 5
+      amount:
+        min: 1
+        max: 1
+
+mobs:
+  BLAZE:
+    enabled: true
+    chance: 25.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 65
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 30
+        amount:
+          min: 1
+          max: 2
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 5
+        amount:
+          min: 1
+          max: 1
+
+  BOGGED:
+    enabled: true
+    chance: 25.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 80
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 20
+        amount:
+          min: 1
+          max: 1
+
+  BREEZE:
+    enabled: true
+    chance: 25.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 70
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 25
+        amount:
+          min: 1
+          max: 2
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 5
+        amount:
+          min: 1
+          max: 1
+
+  CAVE_SPIDER:
+    enabled: true
+    chance: 25.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 85
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 15
+        amount:
+          min: 1
+          max: 1
+
+  CREAKING:
+    enabled: true
+    chance: 20.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 75
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 20
+        amount:
+          min: 1
+          max: 1
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 5
+        amount:
+          min: 1
+          max: 1
+
+  CREEPER:
+    enabled: true
+    chance: 20.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 85
+        amount:
+          min: 1
+          max: 1
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 15
+        amount:
+          min: 1
+          max: 1
+
+  DROWNED:
+    enabled: true
+    chance: 25.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 80
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 20
+        amount:
+          min: 1
+          max: 1
+
+  ELDER_GUARDIAN:
+    enabled: true
+    chance: 40.0
+    rolls:
+      min: 1
+      max: 2
+    drops:
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 70
+        amount:
+          min: 2
+          max: 4
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 30
+        amount:
+          min: 1
+          max: 2
+
+  ENDER_DRAGON:
+    enabled: true
+    chance: 100.0
+    rolls:
+      min: 8
+      max: 12
+    drops:
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 60
+        amount:
+          min: 3
+          max: 6
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 40
+        amount:
+          min: 1
+          max: 3
+
+  ENDERMAN:
+    enabled: true
+    chance: 25.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 70
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 25
+        amount:
+          min: 1
+          max: 2
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 5
+        amount:
+          min: 1
+          max: 1
+
+  ENDERMITE:
+    enabled: true
+    chance: 20.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 90
+        amount:
+          min: 1
+          max: 1
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 10
+        amount:
+          min: 1
+          max: 1
+
+  EVOKER:
+    enabled: true
+    chance: 35.0
+    rolls:
+      min: 1
+      max: 2
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 50
+        amount:
+          min: 1
+          max: 3
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 40
+        amount:
+          min: 1
+          max: 2
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 10
+        amount:
+          min: 1
+          max: 1
+
+  GHAST:
+    enabled: true
+    chance: 30.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 55
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 35
+        amount:
+          min: 1
+          max: 2
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 10
+        amount:
+          min: 1
+          max: 1
+
+  GIANT:
+    enabled: true
+    chance: 50.0
+    rolls:
+      min: 2
+      max: 4
+    drops:
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 70
+        amount:
+          min: 2
+          max: 4
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 30
+        amount:
+          min: 1
+          max: 2
+
+  GUARDIAN:
+    enabled: true
+    chance: 25.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 75
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 25
+        amount:
+          min: 1
+          max: 1
+
+  HOGLIN:
+    enabled: true
+    chance: 25.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 70
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 25
+        amount:
+          min: 1
+          max: 1
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 5
+        amount:
+          min: 1
+          max: 1
+
+  HUSK:
+    enabled: true
+    chance: 25.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 85
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 15
+        amount:
+          min: 1
+          max: 1
+
+  ILLUSIONER:
+    enabled: true
+    chance: 35.0
+    rolls:
+      min: 1
+      max: 2
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 55
+        amount:
+          min: 1
+          max: 3
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 35
+        amount:
+          min: 1
+          max: 2
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 10
+        amount:
+          min: 1
+          max: 1
+
+  MAGMA_CUBE:
+    enabled: true
+    chance: 20.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 80
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 20
+        amount:
+          min: 1
+          max: 1
+
+  PHANTOM:
+    enabled: true
+    chance: 25.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 75
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 25
+        amount:
+          min: 1
+          max: 1
+
+  PIGLIN:
+    enabled: true
+    chance: 20.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 80
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 20
+        amount:
+          min: 1
+          max: 1
+
+  PIGLIN_BRUTE:
+    enabled: true
+    chance: 30.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 55
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 35
+        amount:
+          min: 1
+          max: 2
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 10
+        amount:
+          min: 1
+          max: 1
+
+  PILLAGER:
+    enabled: true
+    chance: 25.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 70
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 30
+        amount:
+          min: 1
+          max: 1
+
+  RAVAGER:
+    enabled: true
+    chance: 40.0
+    rolls:
+      min: 1
+      max: 2
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 45
+        amount:
+          min: 1
+          max: 3
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 40
+        amount:
+          min: 1
+          max: 3
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 15
+        amount:
+          min: 1
+          max: 1
+
+  SHULKER:
+    enabled: true
+    chance: 25.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 65
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 30
+        amount:
+          min: 1
+          max: 1
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 5
+        amount:
+          min: 1
+          max: 1
+
+  SILVERFISH:
+    enabled: true
+    chance: 20.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 95
+        amount:
+          min: 1
+          max: 1
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 5
+        amount:
+          min: 1
+          max: 1
+
+  SKELETON:
+    enabled: true
+    chance: 25.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 80
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 20
+        amount:
+          min: 1
+          max: 1
+
+  SLIME:
+    enabled: true
+    chance: 20.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 85
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 15
+        amount:
+          min: 1
+          max: 1
+
+  SPIDER:
+    enabled: true
+    chance: 25.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 85
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 15
+        amount:
+          min: 1
+          max: 1
+
+  STRAY:
+    enabled: true
+    chance: 25.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 80
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 20
+        amount:
+          min: 1
+          max: 1
+
+  VEX:
+    enabled: true
+    chance: 25.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 75
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 20
+        amount:
+          min: 1
+          max: 1
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 5
+        amount:
+          min: 1
+          max: 1
+
+  VINDICATOR:
+    enabled: true
+    chance: 30.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 65
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 30
+        amount:
+          min: 1
+          max: 2
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 5
+        amount:
+          min: 1
+          max: 1
+
+  WARDEN:
+    enabled: true
+    chance: 50.0
+    rolls:
+      min: 2
+      max: 3
+    drops:
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 65
+        amount:
+          min: 2
+          max: 4
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 35
+        amount:
+          min: 1
+          max: 2
+
+  WITCH:
+    enabled: true
+    chance: 25.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 70
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 25
+        amount:
+          min: 1
+          max: 1
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 5
+        amount:
+          min: 1
+          max: 1
+
+  WITHER:
+    enabled: true
+    chance: 100.0
+    rolls:
+      min: 4
+      max: 8
+    drops:
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 65
+        amount:
+          min: 2
+          max: 5
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 35
+        amount:
+          min: 1
+          max: 3
+
+  WITHER_SKELETON:
+    enabled: true
+    chance: 30.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 60
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 30
+        amount:
+          min: 1
+          max: 2
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 10
+        amount:
+          min: 1
+          max: 1
+
+  ZOGLIN:
+    enabled: true
+    chance: 30.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 60
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 35
+        amount:
+          min: 1
+          max: 2
+      gold_coin:
+        item: "asteroidmc:gold_coin"
+        weight: 5
+        amount:
+          min: 1
+          max: 1
+
+  ZOMBIE:
+    enabled: true
+    chance: 30.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 90
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 10
+        amount:
+          min: 1
+          max: 1
+
+  ZOMBIE_VILLAGER:
+    enabled: true
+    chance: 25.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 85
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 15
+        amount:
+          min: 1
+          max: 1
+
+  ZOMBIFIED_PIGLIN:
+    enabled: true
+    chance: 20.0
+    rolls:
+      min: 1
+      max: 1
+    drops:
+      bronze_coin:
+        item: "asteroidmc:bronze_coin"
+        weight: 80
+        amount:
+          min: 1
+          max: 2
+      silver_coin:
+        item: "asteroidmc:silver_coin"
+        weight: 20
+        amount:
+          min: 1
+          max: 1

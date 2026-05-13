@@ -31,19 +31,19 @@ global-drops:
     max: 1
   drops:
     bronze_coin:
-      item: "asteroidmc:bronze_coin"
+      item: "itemsadder:bronze_coin"
       weight: 75
       amount:
         min: 1
         max: 3
     silver_coin:
-      item: "asteroidmc:silver_coin"
+      item: "itemsadder:silver_coin"
       weight: 20
       amount:
         min: 1
         max: 2
     gold_coin:
-      item: "asteroidmc:gold_coin"
+      item: "itemsadder:gold_coin"
       weight: 5
       amount:
         min: 1
@@ -58,19 +58,19 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 65
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 30
         amount:
           min: 1
           max: 2
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 5
         amount:
           min: 1
@@ -84,13 +84,13 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 80
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 20
         amount:
           min: 1
@@ -104,19 +104,19 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 70
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 25
         amount:
           min: 1
           max: 2
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 5
         amount:
           min: 1
@@ -130,13 +130,13 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 85
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 15
         amount:
           min: 1
@@ -150,19 +150,19 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 75
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 20
         amount:
           min: 1
           max: 1
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 5
         amount:
           min: 1
@@ -176,13 +176,13 @@ mobs:
       max: 1
     drops:
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 85
         amount:
           min: 1
           max: 1
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 15
         amount:
           min: 1
@@ -196,13 +196,13 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 80
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 20
         amount:
           min: 1
@@ -216,13 +216,13 @@ mobs:
       max: 2
     drops:
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 70
         amount:
           min: 2
           max: 4
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 30
         amount:
           min: 1
@@ -236,13 +236,13 @@ mobs:
       max: 12
     drops:
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 60
         amount:
           min: 3
           max: 6
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 40
         amount:
           min: 1
@@ -256,19 +256,19 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 70
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 25
         amount:
           min: 1
           max: 2
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 5
         amount:
           min: 1
@@ -282,13 +282,13 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 90
         amount:
           min: 1
           max: 1
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 10
         amount:
           min: 1
@@ -302,19 +302,19 @@ mobs:
       max: 2
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 50
         amount:
           min: 1
           max: 3
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 40
         amount:
           min: 1
           max: 2
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 10
         amount:
           min: 1
@@ -328,19 +328,19 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 55
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 35
         amount:
           min: 1
           max: 2
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 10
         amount:
           min: 1
@@ -354,13 +354,13 @@ mobs:
       max: 4
     drops:
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 70
         amount:
           min: 2
           max: 4
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 30
         amount:
           min: 1
@@ -374,13 +374,13 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 75
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 25
         amount:
           min: 1
@@ -394,19 +394,19 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 70
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 25
         amount:
           min: 1
           max: 1
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 5
         amount:
           min: 1
@@ -420,13 +420,13 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 85
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 15
         amount:
           min: 1
@@ -440,19 +440,19 @@ mobs:
       max: 2
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 55
         amount:
           min: 1
           max: 3
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 35
         amount:
           min: 1
           max: 2
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 10
         amount:
           min: 1
@@ -466,13 +466,13 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 80
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 20
         amount:
           min: 1
@@ -486,13 +486,13 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 75
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 25
         amount:
           min: 1
@@ -506,13 +506,13 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 80
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 20
         amount:
           min: 1
@@ -526,19 +526,19 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 55
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 35
         amount:
           min: 1
           max: 2
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 10
         amount:
           min: 1
@@ -552,13 +552,13 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 70
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 30
         amount:
           min: 1
@@ -572,19 +572,19 @@ mobs:
       max: 2
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 45
         amount:
           min: 1
           max: 3
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 40
         amount:
           min: 1
           max: 3
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 15
         amount:
           min: 1
@@ -598,19 +598,19 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 65
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 30
         amount:
           min: 1
           max: 1
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 5
         amount:
           min: 1
@@ -624,13 +624,13 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 95
         amount:
           min: 1
           max: 1
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 5
         amount:
           min: 1
@@ -644,13 +644,13 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 80
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 20
         amount:
           min: 1
@@ -664,13 +664,13 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 85
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 15
         amount:
           min: 1
@@ -684,13 +684,13 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 85
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 15
         amount:
           min: 1
@@ -704,13 +704,13 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 80
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 20
         amount:
           min: 1
@@ -724,19 +724,19 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 75
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 20
         amount:
           min: 1
           max: 1
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 5
         amount:
           min: 1
@@ -750,19 +750,19 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 65
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 30
         amount:
           min: 1
           max: 2
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 5
         amount:
           min: 1
@@ -776,13 +776,13 @@ mobs:
       max: 3
     drops:
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 65
         amount:
           min: 2
           max: 4
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 35
         amount:
           min: 1
@@ -796,19 +796,19 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 70
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 25
         amount:
           min: 1
           max: 1
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 5
         amount:
           min: 1
@@ -822,13 +822,13 @@ mobs:
       max: 8
     drops:
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 65
         amount:
           min: 2
           max: 5
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 35
         amount:
           min: 1
@@ -842,19 +842,19 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 60
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 30
         amount:
           min: 1
           max: 2
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 10
         amount:
           min: 1
@@ -868,19 +868,19 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 60
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 35
         amount:
           min: 1
           max: 2
       gold_coin:
-        item: "asteroidmc:gold_coin"
+        item: "itemsadder:gold_coin"
         weight: 5
         amount:
           min: 1
@@ -894,13 +894,13 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 90
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 10
         amount:
           min: 1
@@ -914,13 +914,13 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 85
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 15
         amount:
           min: 1
@@ -934,13 +934,13 @@ mobs:
       max: 1
     drops:
       bronze_coin:
-        item: "asteroidmc:bronze_coin"
+        item: "itemsadder:bronze_coin"
         weight: 80
         amount:
           min: 1
           max: 2
       silver_coin:
-        item: "asteroidmc:silver_coin"
+        item: "itemsadder:silver_coin"
         weight: 20
         amount:
           min: 1

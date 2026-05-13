@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/hMobCoins.iml" filepath="$PROJECT_DIR$/.idea/hMobCoins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmobcoins.iml" filepath="$PROJECT_DIR$/hmobcoins.iml" />
     </modules>
   </component>
 </project>

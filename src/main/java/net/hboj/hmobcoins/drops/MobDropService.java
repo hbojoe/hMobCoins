@@ -76,10 +76,12 @@ public final class MobDropService {
             return;
         }
 
-        Player killer = resolveKiller(entity);
-        if (killer == null) {
-            debug("Skipping " + entity.getType().name() + ": no real player killer.");
-            return;
+        if (config.settings().onlyPlayerKills()) {
+            Player killer = resolveKiller(entity);
+            if (killer == null) {
+                debug("Skipping " + entity.getType().name() + ": no real player killer.");
+                return;
+            }
         }
 
         if (!isRewardableMob(entity)) {
